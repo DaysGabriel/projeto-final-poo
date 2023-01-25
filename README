@@ -1,0 +1,5 @@
+Gabriel Dias - CC2
+
+para rodar o código, recomendo que utilize :
+
+g++ -Wall -Wextra Dvd.cpp Cd.cpp Midia.cpp main.cpp -o main && ./main
